@@ -30,3 +30,11 @@ $ cd freenet
 $ chmod +x Main.py
 
 $ python2 Main.py
+
+# Bahan
+
+1.Termux
+
+2.
+
+![hago](https://i.postimg.cc/VLTDPM1y/Screenshot-2019-10-27-16-23-03-196-com-psiphon3-subscription-pic.png)
