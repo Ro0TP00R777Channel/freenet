@@ -35,8 +35,12 @@ $ python2 Main.py
 
 1.Termux
 
-2.
+2.psiphon vpn
+
+>Kalian Bebas Gunakan psiphon vpn MOD 
+ 
+ Atau psiphon vpn di play store
 
 ![hogo](https://i.postimg.cc/VLTDPM1y/Screenshot-2019-10-27-16-23-03-196-com-psiphon3-subscription-pic.png)
 
-![hogo[(https://i.postimg.cc/Kc35rjBJ/Screenshot-2019-10-27-16-23-09-585-com-psiphon3-subscription-pic.png)
+![hogo](https://i.postimg.cc/Kc35rjBJ/Screenshot-2019-10-27-16-23-09-585-com-psiphon3-subscription-pic.png)
