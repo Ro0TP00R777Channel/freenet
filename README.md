@@ -1,6 +1,6 @@
 # freenet
 
->Copyright By Ro0TN3T<
+>Copyright By Ro0TN3T
 >
 >Satu Niat - Satu Semangat - Satu Komando
 
