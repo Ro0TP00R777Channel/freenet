@@ -21,7 +21,7 @@ $ gir clone https://github.com/Ro0TP00R777Channel/freenet
 
 
 
-# Cara Menjalankan 
+# Cara M3nj4l4nk4n 
 
 
 
